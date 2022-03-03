@@ -2,7 +2,7 @@
 + I am currently working on a project called Vartija which is a discord bot.
 + If you ever feel the need or want to contact me you can feel free to do so:
 > Discord: MistyyBoi#4836<br>
-> E-mail: dyeaaronjr@outlook.com
+> E-mail: dyeaaronjr@gmail.com
 
 <br>
 <h1 align="center">Tools</h1>
